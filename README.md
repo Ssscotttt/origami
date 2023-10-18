@@ -34,3 +34,19 @@ Kamiya Satoshi's unicorn design is a challenging one to execute well. After thre
 </p>
 
 Oriol Esteve's unicorn is as adorable as it is simple to fold. It's an excellent project for those looking to practice their skills with tissue-foil paper, yielding a cute result every time.
+
+## Wyvern, designed by Saku
+
+<p float="left">
+  <img src="images/wyvern_saku.jpg" width="90%" alt="wyvern">
+</p>
+
+I love this wyvern because of its simplicity. I once tried my hand at designing a wyvern, but that involved the use of scissors and glue—this rendition is a testament to the beauty of pure origami artistry.
+
+## ἱππόκαμπος, designed by Roman Diaz
+
+<p float="left">
+  <img src="images/Hippocampus_Roman Diaz.jpg" width="90%" alt="wyvern">
+</p>
+
+Inspired by the Iliad, where the ἱππόκαμπος is described as pulling Poseidon's chariot, this piece is as mythical as it is intricate. Crafted with "elephant hide" paper, it required significant effort to achieve the result.

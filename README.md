@@ -49,4 +49,4 @@ I love this wyvern because of its simplicity. I once tried my hand at designing 
   <img src="images/Hippocampus_Roman Diaz.jpg" width="90%" alt="wyvern">
 </p>
 
-Inspired by the Iliad, where the ἱππόκαμπος is described as pulling Poseidon's chariot, this piece is as mythical as it is intricate. Crafted with "elephant hide" paper, it required significant effort to achieve the result.
+Inspired by the Iliad, where the ἱππόκαμπος is described as pulling Poseidon's chariot, this piece is as mythical as it is intricate. Crafted with "elephant hide" paper, it required significant physical effort to achieve the result.

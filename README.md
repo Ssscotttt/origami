@@ -9,7 +9,7 @@ Welcome to my origami gallery! Here, I've showcased some of my favourite Origami
   <img src="images/Bear_real.jpg" width="45%" alt="bear in the zoo">
 </p>
 
-This origami bear was inspired by a photograph I took during a zoo visit. Quentin Trollip originally crafted the design, and I created this piece as a tribute to capture the likeness of the real bear, as seen on the right. The resemblance is striking, don't you think?
+This origami bear was inspired by a photograph I took during a zoo visit. Quentin Trollip originally crafted the design, and I created this piece as a tribute to capture the likeness of the real bear, as seen on the right.
 
 ## Unicorn, designed by Kyohei Katsuta
 

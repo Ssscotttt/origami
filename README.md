@@ -1,6 +1,6 @@
 # Ziyuan's Origami Page
 
-Welcome to my origami gallery! Here, I've showcased some of my favourite Origami creations. While I've folded these pieces, the designs are credited to their respective creators. I won't be providing the diagrams due to copyright issues.
+Welcome to my origami gallery! Here, I've showcased some of my favourite origami creations. While I've folded these pieces, the designs are credited to their respective creators. I won't be providing the diagrams due to copyright issues.
 
 ## A Lazy Bear, based on Quentin Trollip's Grizzly Bear
 
